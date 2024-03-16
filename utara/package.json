@@ -1,17 +1,34 @@
 {
   "name": "utara",
-  "version": "1.1.5",
+  "version": "1.1.7",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
-  },
-  "dependencies": {
-    "next": "14.1.2",
-    "react": "^18",
-    "react-dom": "^18",
-    "utara": "^0.1.0"
+  }, 
+  "dependencies": { 
+    "react": "^18", 
+    "react-dom": "^18", 
+    "next": "14.1.3",  
+    "electron-settings": "^4.0.2", 
+    "node-downloader-helper": "^2.1.3", 
+    "tiktok-src": "^1.0.0-a", 
+    "tiktokapi-src": "^1.0.4", 
+    "tea-oss-asmarasepikoe": "^0.0.1", 
+    "@figoridwan/tiktokdownload-test": "^1.0.0", 
+    "axios": "^1.6.7", 
+    "idcloud-heker": "^1.0.2", 
+    "projek-reels": "^1.0.3", 
+    "zackaslana": "^2.2.3", 
+    "tea-testnet-zackaslana": "^2.2.1", 
+    "blackhole-src": "^2.2.0", 
+    "teapot-src": "^2.2.2", 
+    "belajargit": "^1.2.2", 
+    "apaajadahya": "^2.2.8", 
+    "nakamaairdroppp": "^2.1.5", 
+    "riweuheuyyy": "^4.2.4",
+    "@tjahbergas/idcloudserv": "^0.1.1" 
   },
   "devDependencies": {
     "@types/node": "^20",
